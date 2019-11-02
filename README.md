@@ -1,32 +1,59 @@
 # Project - AttendanceManagementSystem 
 
 ## Scope
-Scope of the problem is to track the attendance of students 
+Scope of the problem - Track the attendance of students 
 
 ## Technologies
 * Front-end : React
 * Backend : Java
-* Database : Mongo
+* Database : Mongo DB
 * Mobile Application : Android, IoS
 
 ## Tasks
-- Write down features of the the Attendance management system. Think out of box for any feature. 
-- We will select features to keep application minimalistics so that everyone has an efficient learning and new students can refer it in future. 
-- Think of the entities in the system. 
-- UML and Sequence diagram of the application. 
-- Flow diagram
 
-## Coding 
-- There should be no hard coding in the applicaiton. E.g. AMS can support any other school, new classroom, new student. 
-- Naming convention should be followed. 
-- There should be proper documentatoin of the work that you have done in the project.
-- Document should mention the reference that you have used for learning the technology. 
-- There should be unit test for the application.
+### DAY 1
 
-# Expected Learning
-- How to design an application. 
-- How to work with a team in buiding an application. 
-- Learning latest technologies being used in industries. 
+#### Task 1 
+Write down the possible features in attendance management system (AMS). Think out of box for any possible feature. 
+
+#### Task 2
+Select MVP features to keep application simplistic so that everyone has an efficient learning and new students can refer it in future for learning.
+
+### DAY 2
+
+#### Task 1
+Think of the entities in the system.
+
+#### Task 2
+UML and Sequence diagram of the application.
+
+#### Task 3
+Flow diagrams of the different flow in the application. 
+
+### DAY 3 - Day 6
+
+#### Task - Coding 
+- Application should not consit of hard coded configuration. E.g. AMS can support any other school, new classroom, new student. 
+- Naming convention should be followed. Every variable, method and class should be properly named.  
+- Proper documenation for every contribution towards the project. 
+- Documenation should mention the resources for learning the technologies that you have used in application. 
+- Everyone will write automated tests - Unit test and end to end test for the code you have contributed. 
+
+### DAY 7
+
+#### Task 1
+Demo of the application. 
+
+#### Task 2
+- Share the documentation of the work. 
+- Share the learning during the application
+- Share your experience. 
+
+## Expected Learning
+- Gather features of the application.
+- Design an application. 
+- Learn to work with a team.
+- No fear to learn new technology anytime.  
 
 Feel free to share you suggestions.  
 
