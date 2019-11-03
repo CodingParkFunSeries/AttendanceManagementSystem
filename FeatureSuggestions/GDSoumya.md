@@ -2,10 +2,11 @@
 
 ## Roles :
 The system will have different levels of administration, the basic hierarchy could be followed :
-**1. Admin :** All read/write permissions of system.
-**2. Support :** Write access to only specific portions of data like user data for updating user details etc.
-**3. Manager :** Read access to fetch all the attendance data.
-**4. User :** Read permission for self data only.
+1. Admin : All read/write permissions of system.
+2. Support : Write access to only specific portions of data like user data for updating user details etc.
+3. Manager : Read access to fetch all the attendance data.
+4. User : Read permission for self data only.
+
 All support amd manager accounts can only be created by the admin. The Admin account will be manually configured when the system is initialized for the first time.
 
 
