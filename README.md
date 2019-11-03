@@ -16,6 +16,14 @@ Scope of the problem - Track the attendance of students
 #### Task 1 
 Write down the possible features in attendance management system (AMS). Think out of box for any possible feature. 
 
+###### Detailed steps :
+1. Check out the GitHub repo
+2. Direct check-in to master is not allowed, so create a branch in format `users_<Github user Id>_task` e.g for me it will be `users_ajay109458_createFeatureSuggestion`
+3. Now there is a FeatureSuggestion folder create an md file in format `<your name>.md` ( learn to write md file) about possible features in the attendance management system. 
+4. Push you changes and raise a PR.
+
+Expected learning - Github basic commands and how to write md files.
+
 #### Task 2
 Select MVP features to keep application simplistic so that everyone has an efficient learning and new students can refer it in future for learning.
 
