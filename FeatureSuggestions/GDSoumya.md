@@ -20,8 +20,8 @@ User’s will be marked as present with their time of entry on a particular day 
 
 ### 3. Fetch Attendance :
 The attendance of all users can be fetched in different possible ways as needed :
-User Based : Attendance details of a specific user over a period of time.
-Overall Attendance : Day wise attendance showing present users or absent users, over a period of time or specific date.
+1. User Based : Attendance details of a specific user over a period of time.
+2. Overall Attendance : Day wise attendance showing present users or absent users, over a period of time or specific date.
  
 ## Extra Features :
 
